@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GiphySearch</string>
+    <string name="search_for_GIF">Search for GIF</string>
+    <string name="gifs_api_key">tShuvdLb17NddXgMQSIiHBr6BHr3eiFL</string>
+    <string name="item_per_page">Choose the number of items?</string>
+    <string name="item_per_page_10">10</string>
+    <string name="item_per_page_30">30</string>
+    <string name="item_per_page_50">50</string>
+</resources>
